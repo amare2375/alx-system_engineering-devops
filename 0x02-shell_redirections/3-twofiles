@@ -1,2 +1,2 @@
-/etc/passwd
-/etc/hosts
+#!/bi/bash
+/etc/passwd /etc/hosts
